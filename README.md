@@ -1,3 +1,5 @@
 # NECIRrcv
 
-Author: Joe Knapp
+Original author: Joe Knapp
+
+Adapted for modern Arduino versions.
